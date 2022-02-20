@@ -1,1 +1,0 @@
-# kaggel-data-since-project
